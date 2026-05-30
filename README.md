@@ -592,10 +592,6 @@ Este proyecto está bajo la licencia **ISC**. Consulta el archivo `package.json`
 ---
 
 <p align="center">
-  Hecho con ❤️ por <a href="https://github.com/Yina-programmer"><strong>Yina-programmer</strong></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/🎬-NetPolix-00D4FF?style=for-the-badge" alt="NetPolix">
 </p>
 # Plataforma-de-streaming-y-venta-de-pel-culas-y-series
